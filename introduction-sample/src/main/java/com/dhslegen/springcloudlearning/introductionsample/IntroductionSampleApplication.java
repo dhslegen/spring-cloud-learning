@@ -3,6 +3,9 @@ package com.dhslegen.springcloudlearning.introductionsample;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author zhaowenhao
+ */
 @SpringBootApplication
 public class IntroductionSampleApplication {
 
