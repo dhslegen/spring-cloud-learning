@@ -1,4 +1,4 @@
-package com.dhslegen.springcloudlearning.introductionsample;
+package com.dhslegen.springcloudlearning.introductionsample.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author zhaowenhao
  */
 @SpringBootApplication
-public class IntroductionSampleApplication {
+public class IntroductionSampleConsumerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IntroductionSampleApplication.class, args);
+        SpringApplication.run(IntroductionSampleConsumerApplication.class, args);
     }
 
 }

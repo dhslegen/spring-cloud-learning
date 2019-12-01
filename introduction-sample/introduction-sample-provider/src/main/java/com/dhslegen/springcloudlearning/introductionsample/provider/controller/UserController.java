@@ -1,7 +1,7 @@
-package com.dhslegen.springcloudlearning.introductionsample.controller;
+package com.dhslegen.springcloudlearning.introductionsample.provider.controller;
 
-import com.dhslegen.springcloudlearning.introductionsample.dao.UserRepository;
-import com.dhslegen.springcloudlearning.introductionsample.entity.User;
+import com.dhslegen.springcloudlearning.introductionsample.provider.dao.UserRepository;
+import com.dhslegen.springcloudlearning.introductionsample.provider.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

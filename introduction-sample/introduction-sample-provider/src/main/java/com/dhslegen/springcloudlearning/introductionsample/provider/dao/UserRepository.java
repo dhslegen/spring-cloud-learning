@@ -1,6 +1,6 @@
-package com.dhslegen.springcloudlearning.introductionsample.dao;
+package com.dhslegen.springcloudlearning.introductionsample.provider.dao;
 
-import com.dhslegen.springcloudlearning.introductionsample.entity.User;
+import com.dhslegen.springcloudlearning.introductionsample.provider.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

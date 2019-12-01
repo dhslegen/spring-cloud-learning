@@ -1,4 +1,4 @@
-package com.dhslegen.springcloudlearning.introductionsample.entity;
+package com.dhslegen.springcloudlearning.introductionsample.provider.entity;
 
 import lombok.Data;
 

@@ -9,14 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dhslegen.springcloudlearning</groupId>
-    <artifactId>introduction-sample</artifactId>
+    <artifactId>introduction-sample-provider</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>introduction-sample</name>
     <description>Demo project for Spring Boot</description>
-
-    <modules>
-        <module>introduction-sample-provider</module>
-    </modules>
 
     <properties>
         <java.version>1.8</java.version>
