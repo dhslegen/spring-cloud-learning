@@ -11,7 +11,7 @@
     <groupId>com.dhslegen.springcloudlearning</groupId>
     <artifactId>introduction-sample-provider</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>introduction-sample</name>
+    <name>introduction-sample-provider</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

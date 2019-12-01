@@ -1,10 +1,10 @@
-package com.dhslegen.springcloudlearning.introductionsample;
+package com.dhslegen.springcloudlearning.introductionsample.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IntroductionSampleApplicationTests {
+class IntroductionSampleConsumerApplicationTests {
 
     @Test
     void contextLoads() {
