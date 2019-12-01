@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 
 /**
- * @author zhaowenhao
+ * @author dhslegen
  */
 @Entity
 @Data
