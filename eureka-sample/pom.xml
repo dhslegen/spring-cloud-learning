@@ -16,5 +16,6 @@
 
     <modules>
         <module>microservice-discovery-eureka-server</module>
+        <module>microservice-provider-user</module>
     </modules>
 </project>
